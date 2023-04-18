@@ -1,0 +1,55 @@
+Title:Electricity Billing System
+
+NavBar
+-Home
+-Login(login page like hackerank)
+	-User Login
+	-Admin Login
+-Sign Up
+-About Us(how produce,production capacity)
+-------------------------------------
+LOGIN PANE (similar to hackerrank giving option to signup login and similar buttons)
+
+Username-form(like hackerrank)
+password-form(like hackerrank)
+-------------------------------------
+ADMIN PANE
+
+-Master
+	-New Customer
+	-Customer Details
+	-Deposit Details
+	-Calculate Bill
+
+-Utility
+	-NotePad
+	-Calculator
+
+-Analytics(Overall)
+
+-LogOut(Are U Sure u want to logout)
+-------------------------------------
+User Pane
+-Information
+	-Update Information
+	-Veiw Information
+-User
+	-Pay Bill
+	-Bill Details
+
+-Report
+	-Generate Bill
+
+-Utility
+	-NotePad
+	-Calculator
+
+-Analytics(Individual)
+
+-LogOut(Are U Sure u want to logout)
+-------------------------------------
+Footer
+-Credits
+-Copyright
+
+872672
