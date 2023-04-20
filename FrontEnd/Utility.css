@@ -1,0 +1,41 @@
+.bg-lightSkyBlue {
+  background-color: #90caf9;
+}
+.bg-blueJeans {
+  background-color: #42a5f5;
+}
+.bg-bleuDeFrance {
+  background-color: #1e88e5;
+}
+.bg-greenBlue {
+  background-color: #1565c0;
+}
+.bg-cobaltBlue {
+  background-color: #0d47a1;
+}
+.txt-lightSkyBlue {
+  color: #90caf9;
+}
+.txt-blueJeans {
+  color: #42a5f5;
+}
+.txt-bleuDeFrance {
+  color: #1e88e5;
+}
+.txt-greenBlue {
+  color: #1565c0;
+}
+.txt-cobaltBlue {
+  color: #0d47a1;
+}
+.mx-auto{
+    margin-right: auto;
+    margin-left: auto;
+}
+.my-auto{
+    margin-top: auto;
+    margin-bottom: auto; 
+}
+.text-white{
+    color: white;
+}

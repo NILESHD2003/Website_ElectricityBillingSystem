@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content-box{
+    background-color: #0d47a1;
+    height: 100%;
+}
+.container{
+    max-width: 1080px;
+    height: 100%;
+    display: flex;
+}
+nav{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    height: 4rem;
+    width: 100%;
+}
+.links{
+    display: flex;
+}
+.link-elements{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+}
