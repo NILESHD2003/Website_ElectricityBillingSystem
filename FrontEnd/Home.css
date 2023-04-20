@@ -29,3 +29,22 @@ nav{
 a{
     text-decoration: none;
 }
+
+.nav-button{
+    height: 40px;
+    width: 70px;
+    border: #0d47a1;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* .nav-button:hover{
+    background-color: #42a5f5;
+    color: white;
+    transition: ease 3s;
+} */
+
+.text-bold{
+    font-weight: bold;
+}
