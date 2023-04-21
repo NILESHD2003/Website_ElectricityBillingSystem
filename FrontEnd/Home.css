@@ -41,11 +41,16 @@ a{
     margin-right: 10px;
 }
 
-/* .nav-button:hover{
+.nav-button:hover{
     background-color: #42a5f5;
+    transition: linear 1ms;
+    border: 2px solid white;
+}
+
+.nav-button p:hover{
     color: white;
-    transition: ease 3s;
-} */
+    transition: linear 1ms;
+}
 
 .text-bold{
     font-weight: bold;
