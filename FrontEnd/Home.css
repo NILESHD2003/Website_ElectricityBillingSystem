@@ -48,3 +48,13 @@ a{
 .text-bold{
     font-weight: bold;
 }
+
+.footer p{
+    display: flex;
+    width: fit-content;
+}
+
+.footer{
+    height: 40px;
+    border-top: 2px solid #42a5f5;
+}
