@@ -1,3 +1,9 @@
+.bg-aliceBlue {
+  background-color: #e3f2fd;
+}
+.bg-uranianBlue {
+  background-color: #bbdefb;
+}
 .bg-lightSkyBlue {
   background-color: #90caf9;
 }
@@ -12,6 +18,12 @@
 }
 .bg-cobaltBlue {
   background-color: #0d47a1;
+}
+.text-aliceBlue {
+  color: #e3f2fd;
+}
+.text-uranianBlue {
+  color: #bbdefb;
 }
 .text-lightSkyBlue {
   color: #90caf9;
@@ -28,14 +40,14 @@
 .text-cobaltBlue {
   color: #0d47a1;
 }
-.mx-auto{
-    margin-right: auto;
-    margin-left: auto;
+.text-white {
+  color: white;
 }
-.my-auto{
-    margin-top: auto;
-    margin-bottom: auto; 
+.mx-auto {
+  margin-right: auto;
+  margin-left: auto;
 }
-.text-white{
-    color: white;
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
 }
